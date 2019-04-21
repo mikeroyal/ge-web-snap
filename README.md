@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/45159366/56414714-57ae9900-6240-11e9-934b-972b92ed3490.png">
+  <img src="https://user-images.githubusercontent.com/45159366/56467364-b1df6380-63d2-11e9-940a-b9dedad9574b.png">
   <br />
-Photopea
+Humble Store
 </h1>
 
-<p align="center"><b>This is the snap for Photopea, an advanced image editor. It works on Ubuntu, Fedora, Debian, and other major Linux distributions. </p>
+<p align="center"><b>This is the snap for Humble Store, a digital storefront for video games. It works on Ubuntu, Fedora, Debian, and other major Linux distributions. </p>
 
 <!-- Uncomment and modify this when you are provided a build status badge
 <p align="center">
@@ -13,7 +13,7 @@ Photopea
 -->
 
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/45159366/56414716-58dfc600-6240-11e9-918b-b277909548b3.png">
+  <img src="https://user-images.githubusercontent.com/45159366/56467365-b3a92700-63d2-11e9-93f3-1595b985daf3.png">
   <br />
 </h1>
 
@@ -21,7 +21,7 @@ Photopea
 
 ## Install
 
-    sudo snap install photopea
+    sudo snap install humble-store
 
 ([Don't have snapd installed?](https://snapcraft.io/docs/core/install))
 
