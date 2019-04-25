@@ -1,6 +1,6 @@
 const electron = require('electron');
 const { shell, app, BrowserWindow } = electron;
-const HOMEPAGE = 'https://www.humblebundle.com/'
+const HOMEPAGE = 'https://maevemusic.app/'
 
 let mainWindow;
 
