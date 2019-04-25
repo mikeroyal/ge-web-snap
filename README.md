@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/45159366/56467364-b1df6380-63d2-11e9-940a-b9dedad9574b.png">
+  <img src="https://user-images.githubusercontent.com/45159366/56716180-891adf00-66ee-11e9-97b6-305bcddfdebc.png">
   <br />
-Humble Store
+Maeve
 </h1>
 
-<p align="center"><b>This is the snap for Humble Store, a digital storefront for video games. It works on Ubuntu, Fedora, Debian, and other major Linux distributions. </p>
+<p align="center"><b>This is the snap for Maeve, a PWA Apple Music web player with Last.fm support. It works on Ubuntu, Fedora, Debian, and other major Linux distributions. </p>
 
 <!-- Uncomment and modify this when you are provided a build status badge
 <p align="center">
@@ -13,7 +13,7 @@ Humble Store
 -->
 
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/45159366/56467365-b3a92700-63d2-11e9-93f3-1595b985daf3.png">
+  <img src="https://user-images.githubusercontent.com/45159366/56716182-89b37580-66ee-11e9-93ac-2d16432124b2.png">
   <br />
 </h1>
 
@@ -21,7 +21,7 @@ Humble Store
 
 ## Install
 
-    sudo snap install humble-store
+    sudo snap install maeve
 
 ([Don't have snapd installed?](https://snapcraft.io/docs/core/install))
 
