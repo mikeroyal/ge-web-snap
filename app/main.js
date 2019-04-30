@@ -1,6 +1,6 @@
 const electron = require('electron');
 const { shell, app, BrowserWindow } = electron;
-const HOMEPAGE = 'https://maevemusic.app/'
+const HOMEPAGE = 'https://earth.google.com/web/'
 
 let mainWindow;
 
