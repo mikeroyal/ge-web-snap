@@ -1,8 +1,8 @@
-name: maeve
+name: ge-web
 version: '0.1'
-summary: Desktop client for Maeve
+summary: Desktop client for Google Earth Web.
 description: |
-a PWA Apple Music web player with Last.fm support. 
+Google Earth Web. 
 
 confinement: strict
 grade: stable
@@ -34,8 +34,8 @@ parts:
       - -node_modules
 
 apps:
-  maeve:
-    command: env TMPDIR=$XDG_RUNTIME_DIR desktop-launch $SNAP/app/maeve
+ ge-web:
+    command: env TMPDIR=$XDG_RUNTIME_DIR desktop-launch $SNAP/app/ge-web
     plugs:
       - home
       - x11
