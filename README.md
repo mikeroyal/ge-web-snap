@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/45159366/56716180-891adf00-66ee-11e9-97b6-305bcddfdebc.png">
+  <img src="https://user-images.githubusercontent.com/45159366/56950068-6d964680-6ae9-11e9-9d7e-64aba8dfccf3.png">
   <br />
-Maeve
+GE Web
 </h1>
 
-<p align="center"><b>This is the snap for Maeve, a PWA Apple Music web player with Last.fm support. It works on Ubuntu, Fedora, Debian, and other major Linux distributions. </p>
+<p align="center"><b>This is the snap for GE-Web, a desktop client for Google Earth Web. It works on Ubuntu, Fedora, Debian, and other major Linux distributions. </p>
 
 <!-- Uncomment and modify this when you are provided a build status badge
 <p align="center">
@@ -13,7 +13,7 @@ Maeve
 -->
 
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/45159366/56716182-89b37580-66ee-11e9-93ac-2d16432124b2.png">
+  <img src="https://user-images.githubusercontent.com/45159366/56949986-3cb61180-6ae9-11e9-8e6d-53bd96d21585.png">
   <br />
 </h1>
 
@@ -21,7 +21,7 @@ Maeve
 
 ## Install
 
-    sudo snap install maeve
+    sudo snap install ge-web
 
 ([Don't have snapd installed?](https://snapcraft.io/docs/core/install))
 
